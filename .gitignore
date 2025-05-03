@@ -1,0 +1,6 @@
+venv/
+database.sqlite3
+db.sqlite3
+app/__pycache__/
+trained_chatbot.pkl
+flask_session/
