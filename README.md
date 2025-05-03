@@ -5,6 +5,9 @@ This is a Quart-based web application. Follow the steps below to set up the virt
 You'll need an API key for IBM Watson Natural Language Understanding v1 for chatbot.py and
 sentiment_analysis.py
 
+You need to train a chatbot by running train_and_save_model.py
+You can change the dataset you wish to use for training by editing the load_dataset.
+
 ## Setup Instructions
 
 ### 1️⃣ Create and Activate a Virtual Environment
